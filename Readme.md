@@ -142,9 +142,7 @@ This project is a great starting point for understanding Machine Learning concep
 
 ---
 
-## Author
 
-Your Name
 
 ---
 
